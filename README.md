@@ -8,3 +8,7 @@ Hey, I'm Ed. I am a full-stack software engineer with an excitement for developi
 
 <ins>**Tools, Frameworks, Engines**</ins>\
 ![](https://skillicons.dev/icons?i=angular,tailwind,jquery,dotnet,electron,firebase,discordjs,electron,nodejs,npm,p5js,unity,gamemakerstudio,git)
+
+## Statistics
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edlessz&layout=compact&hide=html" alt="edlessz" />
+</div>
