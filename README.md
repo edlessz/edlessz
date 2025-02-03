@@ -4,7 +4,7 @@ Hey, I'm Ed. I am a full-stack software engineer with an excitement for developi
 
 ## Skills
 <ins>**Languages**</ins>\
-![](https://skillicons.dev/icons?i=html,css,scss,js,ts,cs,java,py,ruby,ocaml)
+![](https://skillicons.dev/icons?i=html,css,scss,js,ts,cs,java,py,ocaml,ruby)
 
 <ins>**Tools, Frameworks, Engines**</ins>\
 ![](https://skillicons.dev/icons?i=angular,tailwind,jquery,dotnet,electron,firebase,discordjs,electron,nodejs,npm,p5js,unity,gamemakerstudio,git)
